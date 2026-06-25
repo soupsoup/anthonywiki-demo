@@ -16,7 +16,7 @@ A selection of bylines and opinion pieces written by **[[anthony-derosa|Anthony 
 ## Notable pieces
 
 - **The Wall Street Journal** — staff author archive, reflecting his work on the strategic newsroom team at **[[wall-street-journal|The Wall Street Journal]]**.
-- **The LA Times** — an op-ed on online corrections and accountability in digital journalism.
+- **The LA Times** — an op-ed on online corrections and accountability in digital journalism, expanding on the idea he called **[[process-journalism|Process Journalism]]**.
 - **The Guardian** — a piece examining whether the Twitter activity stream had become "too much."
 - **Wired** — an opinion piece on the case for tweeting.
 - **Reuters** — a column written during his tenure as Social Media Editor at **[[reuters|Reuters]]**, alongside the video series "Tech Tonic."
@@ -26,3 +26,4 @@ A selection of bylines and opinion pieces written by **[[anthony-derosa|Anthony 
 - [[anthony-derosa|Anthony DeRosa]]
 - [[reuters|Reuters]]
 - [[wall-street-journal|The Wall Street Journal]]
+- [[process-journalism|Process Journalism]]

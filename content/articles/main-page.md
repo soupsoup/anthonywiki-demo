@@ -33,6 +33,7 @@ Each article has a title and summary, an infobox of key facts, a table of conten
 - [[stranger-than-fiction|Stranger Than Fiction]]
 - [[selected-writing|Selected Writing]]
 - [[ai-builds-showcase|AI Builds Showcase]]
+- [[awards-and-recognition|Awards and Recognition]]
 
 ## See also
 

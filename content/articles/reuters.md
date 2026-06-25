@@ -19,7 +19,7 @@ DeRosa was among the first journalists at a major wire service to systematically
 
 ## Awards
 
-In 2011, DeRosa was awarded "Best Innovation in Storytelling" by Reuters. In 2013, he shared the "Journalist of the Year" award from *El Mundo* with the Knight Foundation's Jennifer Preston, recognizing pioneering use of social media in journalism.
+In 2011, DeRosa was awarded "Best Innovation in Storytelling" by Reuters. In 2013, he shared the "Journalist of the Year" award from *El Mundo* with the Knight Foundation's Jennifer Preston, recognizing pioneering use of social media in journalism. See **[[awards-and-recognition|Awards and Recognition]]** for the fuller record.
 
 ## See also
 
@@ -28,3 +28,4 @@ In 2011, DeRosa was awarded "Best Innovation in Storytelling" by Reuters. In 201
 - [[soupsoup|SoupSoup]]
 - [[selected-writing|Selected Writing]]
 - [[pensions-and-investments|Pensions & Investments]]
+- [[awards-and-recognition|Awards and Recognition]]

@@ -22,7 +22,7 @@ Before moving into newsrooms, DeRosa built a widely-followed Tumblr blog called 
 
 ## Reuters
 
-DeRosa joined **[[reuters|Reuters]]** as Social Media Editor, becoming one of the first journalists at a major wire service to systematically integrate social platforms into breaking-news coverage. He co-authored **[[the-verification-handbook|The Verification Handbook]]**, a widely cited resource for journalists and aid workers verifying user-generated content during crises. He also hosted a video series called "Tech Tonic" and wrote as a Reuters columnist. In 2011 he was awarded "Best Innovation in Storytelling" by Reuters; in 2013 he shared the "Journalist of the Year" award from Spanish newspaper *El Mundo* with Knight Foundation's Jennifer Preston, recognizing his early work using social media for journalism.
+DeRosa joined **[[reuters|Reuters]]** as Social Media Editor, becoming one of the first journalists at a major wire service to systematically integrate social platforms into breaking-news coverage. He co-authored **[[the-verification-handbook|The Verification Handbook]]**, a widely cited resource for journalists and aid workers verifying user-generated content during crises. He also hosted a video series called "Tech Tonic" and wrote as a Reuters columnist. In 2011 he was awarded "Best Innovation in Storytelling" by Reuters; in 2013 he shared the "Journalist of the Year" award from Spanish newspaper *El Mundo* with Knight Foundation's Jennifer Preston, recognizing his early work using social media for journalism — see **[[awards-and-recognition|Awards and Recognition]]**.
 
 ## Circa
 
@@ -50,7 +50,7 @@ DeRosa has also served as an adjunct journalism professor at **[[new-york-univer
 
 ## Recognition
 
-DeRosa has been featured by *AdWeek*, *New York Magazine*, *Details*, *TIME*, *Mashable*, and *Gizmodo*, and was called "the undisputed King of Tumblr" by *The New York Times*. NBC New York named him one of the top 20 people to follow on Twitter.
+DeRosa has been featured by *AdWeek*, *New York Magazine*, *Details*, *TIME*, *Mashable*, and *Gizmodo*, and was called "the undisputed King of Tumblr" by *The New York Times*. NBC New York named him one of the top 20 people to follow on Twitter. See **[[awards-and-recognition|Awards and Recognition]]** for the full record of awards and press mentions.
 
 ## Tools and AI
 
@@ -80,3 +80,5 @@ Beyond his newsroom bylines — see **[[selected-writing|Selected Writing]]** �
 - [[selected-writing|Selected Writing]]
 - [[stranger-than-fiction|Stranger Than Fiction]]
 - [[ai-builds-showcase|AI Builds Showcase]]
+- [[process-journalism|Process Journalism]]
+- [[awards-and-recognition|Awards and Recognition]]
