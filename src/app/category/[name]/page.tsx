@@ -8,7 +8,7 @@ interface Props {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { name } = await params;
-  return { title: `Category:${decodeURIComponent(name)} — ReyesWiki` };
+  return { title: `Category:${decodeURIComponent(name)} — AnthonyWiki` };
 }
 
 export async function generateStaticParams() {

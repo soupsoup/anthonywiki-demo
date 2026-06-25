@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getAllArticles } from "@/lib/articles";
 
-export const metadata = { title: "All articles — ReyesWiki" };
+export const metadata = { title: "All articles — AnthonyWiki" };
 
 export default async function AllArticlesPage() {
   const articles = await getAllArticles();

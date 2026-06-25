@@ -5,7 +5,7 @@ import Sidebar from "@/components/Sidebar";
 import WikiFooter from "@/components/WikiFooter";
 
 export const metadata: Metadata = {
-  title: "ReyesWiki — The Free Encyclopedia",
+  title: "AnthonyWiki — The Free Encyclopedia",
   description: "A personal Wikipedia-style wiki",
 };
 

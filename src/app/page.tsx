@@ -9,11 +9,11 @@ export default async function MainPage() {
   return (
     <div>
       <h1 className="wiki-page-title" style={{ fontFamily: "Georgia, serif" }}>
-        Welcome to ReyesWiki
+        Welcome to AnthonyWiki
       </h1>
 
       <p style={{ fontFamily: "var(--font-family-sans)", fontSize: "0.9375rem", marginBottom: "1.25rem", color: "var(--color-subtle)" }}>
-        ReyesWiki is a personal encyclopedia — a Wikipedia-style wiki for documenting things that matter.
+        AnthonyWiki is a personal encyclopedia — a Wikipedia-style wiki for documenting things that matter.
         It currently has <strong>{articles.length}</strong> article{articles.length !== 1 ? "s" : ""}.
       </p>
 

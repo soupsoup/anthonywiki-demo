@@ -33,7 +33,7 @@ export default function Header() {
             <circle cx="25" cy="25" r="24" stroke="#54595d" strokeWidth="1.5" fill="#f8f9fa"/>
             <text x="25" y="32" textAnchor="middle" fontSize="22" fill="#3366cc" fontFamily="Georgia,serif" fontStyle="italic" fontWeight="bold">W</text>
           </svg>
-          <span className="wiki-wordmark-text">ReyesWiki</span>
+          <span className="wiki-wordmark-text">AnthonyWiki</span>
         </Link>
 
         <div className="wiki-header-search">
@@ -41,7 +41,7 @@ export default function Header() {
             <input
               className="wiki-search-input"
               type="search"
-              placeholder="Search ReyesWiki"
+              placeholder="Search AnthonyWiki"
               value={query}
               onChange={e => { setQuery(e.target.value); setShowSuggestions(true); }}
               onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}

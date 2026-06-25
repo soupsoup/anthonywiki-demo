@@ -31,7 +31,7 @@ export default async function SearchPage({ searchParams }: Props) {
             type="search"
             name="q"
             defaultValue={query}
-            placeholder="Search ReyesWiki"
+            placeholder="Search AnthonyWiki"
             autoFocus
           />
           <button className="wiki-search-btn" type="submit">Search</button>

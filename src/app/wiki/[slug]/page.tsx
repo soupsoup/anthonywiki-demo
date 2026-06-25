@@ -13,11 +13,11 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  if (slug === "new") return { title: "New article — ReyesWiki" };
+  if (slug === "new") return { title: "New article — AnthonyWiki" };
   const article = await getArticleWithBacklinks(slug);
-  if (!article) return { title: "Article not found — ReyesWiki" };
+  if (!article) return { title: "Article not found — AnthonyWiki" };
   return {
-    title: `${article.title} — ReyesWiki`,
+    title: `${article.title} — AnthonyWiki`,
     description: article.summary,
   };
 }

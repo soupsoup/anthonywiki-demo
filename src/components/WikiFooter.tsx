@@ -4,7 +4,7 @@ export default function WikiFooter() {
   return (
     <footer className="wiki-footer">
       <div style={{ marginBottom: "0.5rem" }}>
-        <Link href="/">ReyesWiki</Link>
+        <Link href="/">AnthonyWiki</Link>
         {" · "}
         <Link href="/special/all-articles">All articles</Link>
         {" · "}
@@ -15,7 +15,7 @@ export default function WikiFooter() {
       <div>
         Text is available under the{" "}
         <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</a> license.
-        {" "}ReyesWiki is a personal wiki powered by Next.js.
+        {" "}AnthonyWiki is a personal wiki powered by Next.js.
       </div>
     </footer>
   );
