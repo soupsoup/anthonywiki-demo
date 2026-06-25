@@ -12,7 +12,7 @@ infobox:
   Awards: "Emmy Award; Cannes Lions Grand Prix; Clio Award"
 ---
 
-**The Daily Show** is a late-night news satire program. **[[anthony-derosa|Anthony DeRosa]]** spent five years there as Digital Production Manager, helping build its digital department from the ground up. The team won an **[[emmy-award|Emmy Award]]** and received nominations in 2018 and 2019.
+**The Daily Show** is a late-night news satire program. **[[anthony-derosa|Anthony DeRosa]]** spent five years there as Digital Production Manager, joining a digital team led by Baratunde Thurston and helping build it from the ground up. The team won an **[[emmy-award|Emmy Award]]** in 2017 for "Between the Scenes" — the first Emmy of the Trevor Noah era — and received further nominations in 2018 and 2019.
 
 ## Trump Twitter Library
 

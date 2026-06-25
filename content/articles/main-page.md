@@ -11,7 +11,7 @@ Welcome to this **personal wiki**, an encyclopedia you can edit.
 
 It is organized like [[wikipedia|Wikipedia]] — with articles, categories, backlinks, and a table of contents on longer pages. Everything is written in Markdown with wiki-style `[[double bracket]]` links connecting related articles.
 
-This edition is built around the public career record of **[[anthony-derosa|Anthony DeRosa]]** — sourced entirely from his own public website, antderosa.com.
+This edition is built around the public career record of **[[anthony-derosa|Anthony DeRosa]]** — sourced from his own public website, antderosa.com, and corroborating public coverage elsewhere.
 
 ## How to use this wiki
 
@@ -34,6 +34,7 @@ Each article has a title and summary, an infobox of key facts, a table of conten
 - [[selected-writing|Selected Writing]]
 - [[ai-builds-showcase|AI Builds Showcase]]
 - [[awards-and-recognition|Awards and Recognition]]
+- [[international-journalism-festival|International Journalism Festival]]
 
 ## See also
 

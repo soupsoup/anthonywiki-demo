@@ -29,3 +29,4 @@ In 2011, DeRosa was awarded "Best Innovation in Storytelling" by Reuters. In 201
 - [[selected-writing|Selected Writing]]
 - [[pensions-and-investments|Pensions & Investments]]
 - [[awards-and-recognition|Awards and Recognition]]
+- [[international-journalism-festival|International Journalism Festival]]
