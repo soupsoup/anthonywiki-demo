@@ -1,52 +1,18 @@
 ---
-title: Meridian Skills
-summary: A technology workforce development company offering online training, skill assessments, and editorial content for technology professionals.
+title: Pluralsight
+summary: Technology training company where Anthony DeRosa is currently Vice President of Newsletters and Programming.
 categories:
-  - Work
+  - Organizations
   - Technology
-lastModified: "2026-04-09"
+lastModified: "2026-06-24"
 infobox:
-  _title: "Meridian Skills"
-  Founded: "2005"
-  Headquarters: "Lakeview, Colorado"
-  Type: "Technology education"
-  Products: "Skills platform, Flow, Cloud Labs"
-  Website: "meridianskills.example"
+  _title: "Pluralsight"
+  Industry: "Technology training"
+  Notable employee: "[[anthony-derosa|Anthony DeRosa]] (VP, Newsletters & Programming)"
 ---
 
-**Meridian Skills** is a technology workforce development company that provides online training, skill assessments, and analytics for technology professionals and the organizations that employ them. Founded in 2005, it serves individual learners, teams, and enterprises building technical skills in software development, cloud, cybersecurity, data, and AI.
-
-[[anthony-derosa|Marcus Reyes]] is Vice President of Newsletters and Programming at Meridian Skills.
-
-## Products
-
-### Meridian Skills Platform
-
-The core platform offers thousands of video courses across technology disciplines. Learners can assess their current skill level, follow curated learning paths, and earn certifications. Topics include cloud platforms, software development, cybersecurity, data science, and AI.
-
-### Meridian Flow
-
-A developer analytics tool that gives engineering leaders visibility into team productivity, code quality, and workflow bottlenecks.
-
-### Meridian Cloud Labs
-
-A cloud lab environment where learners can practice hands-on skills without setting up their own infrastructure.
-
-## Editorial: Technology Newsletters
-
-Under [[anthony-derosa|Marcus Reyes]], Meridian Skills launched a technology journalism arm in 2024 — three newsletters targeting professionals in the field's fastest-moving areas:
-
-| Newsletter | Topic | Author | Day |
-|------------|-------|--------|-----|
-| [[prompt-pluralsight|SIGNAL]] | AI | Priya Anand | Monday |
-| [[exploit-pluralsight|BREACH]] | Cybersecurity | Sam Okafor | Wednesday |
-| [[scale-pluralsight|ORBIT]] | Cloud computing | Felix Oyelaran | Friday |
-
-The newsletters are positioned as signal-over-noise publications for practitioners who need to track developments in these fields without wading through hype.
+**Pluralsight** is a technology training company. **[[anthony-derosa|Anthony DeRosa]]** is currently Vice President of Newsletters and Programming there, leading the company's newsletter program and related editorial initiatives.
 
 ## See also
 
-- [[anthony-derosa|Marcus Reyes]]
-- [[prompt-pluralsight|SIGNAL]]
-- [[exploit-pluralsight|BREACH]]
-- [[scale-pluralsight|ORBIT]]
+- [[anthony-derosa|Anthony DeRosa]]

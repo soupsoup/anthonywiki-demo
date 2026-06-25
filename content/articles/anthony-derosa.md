@@ -1,71 +1,72 @@
 ---
-title: Marcus Reyes
-summary: Digital media executive, journalist, and technologist with over 20 years of experience across wire services, late-night television, mobile news startups, and a major newspaper, now leading editorial programming at a technology training company.
+title: Anthony DeRosa
+summary: Digital media executive, journalist, and early social-media pioneer with more than 20 years of experience across wire services, late-night television, mobile news startups, and a major newspaper. Currently Vice President of Newsletters and Programming at Pluralsight.
 categories:
   - People
   - Featured
-lastModified: "2026-04-09"
+lastModified: "2026-06-24"
 infobox:
-  _title: "Marcus Reyes"
+  _title: "Anthony DeRosa"
   Current role: "VP, Newsletters & Programming"
-  Employer: "[[pluralsight|Meridian Skills]]"
-  Education: "State University (Marketing)"
-  Website: "marcusreyes.example"
+  Employer: "[[pluralsight|Pluralsight]]"
+  Notable past employers: "Reuters, Circa, The Wall Street Journal, The Daily Show"
+  Known for: "Tumblr blog SoupSoup; social media journalism"
+  Website: "antderosa.com"
 ---
 
-**Marcus Reyes** is a digital media executive, journalist, and technologist with more than two decades of experience building editorial and product teams at newsrooms and media companies. He is currently Vice President of Newsletters and Programming at [[pluralsight|Meridian Skills]], where he launched the company's technology journalism division.
+**Anthony DeRosa** is a digital media executive, journalist, and technologist with more than 20 years of experience leading content and product teams for newsrooms and media organizations, including [[reuters|Reuters]], [[circa|Circa]], [[wall-street-journal|The Wall Street Journal]], and Pensions & Investments. He helped launch three startups over the course of his career. He is currently Vice President of Newsletters and Programming at **[[pluralsight|Pluralsight]]**.
 
-## Early life and education
+## Early career and SoupSoup
 
-Reyes studied marketing before drifting into digital media, building an early audience through a widely-followed blog of curated news and culture links. The attention that blog attracted led to his first newsroom job.
+Before moving into newsrooms, DeRosa built a widely-followed Tumblr blog called **[[soupsoup|SoupSoup]]**, curating news, photography, and culture. The attention it drew led directly to a job offer from Reuters — the company hired him as its first social media editor after recognizing, in the words of *New York Magazine*, "serious unused editorial talent in the building."
 
-## Career
+## Reuters
 
-### Continental Wire
+DeRosa joined **[[reuters|Reuters]]** as Social Media Editor, becoming one of the first journalists at a major wire service to systematically integrate social platforms into breaking-news coverage. He co-authored **[[the-verification-handbook|The Verification Handbook]]**, a widely cited resource for journalists and aid workers verifying user-generated content during crises. He also hosted a video series called "Tech Tonic" and wrote as a Reuters columnist. In 2011 he was awarded "Best Innovation in Storytelling" by Reuters; in 2013 he shared the "Journalist of the Year" award from Spanish newspaper *El Mundo* with Knight Foundation's Jennifer Preston, recognizing his early work using social media for journalism.
 
-Reyes began his professional media career at **Continental Wire**, a global news service, where he served as Social Media Editor. He was among the first journalists at a major wire service to systematically fold social platforms into breaking-news coverage, scanning live feeds during major events and weaving that material into wire reporting. He co-authored a widely-cited field guide on verifying user-generated content during crises, later known simply as **[[the-verification-handbook|the Field Verification Guide]]**.
+## Circa
 
-### The Nightly Brief
+DeRosa served as Editor-in-Chief of **[[circa|Circa]]**, a mobile news startup that broke stories into discrete, updateable facts rather than traditional articles — an approach that influenced how a generation of publishers thought about mobile-first storytelling.
 
-Reyes served as Digital Production Manager at *The Nightly Brief*, a late-night news satire program, where he helped build its digital department from the ground up. The team won an industry award for its digital work.
+## The Wall Street Journal
 
-### Atomic
+At **[[wall-street-journal|The Wall Street Journal]]**, DeRosa served on a strategic newsroom team driving data-informed coverage decisions and audience growth. He co-authored a 209-page strategy roadmap that helped double the paper's previously flat subscription base, relaunched its flagship newsletter, and introduced "news you can use" content for jobseekers. He worked on high-profile coverage including the Elizabeth Holmes trial, presidential elections, and the anniversary of September 11.
 
-In the early 2010s, Reyes joined mobile news startup **[[circa|Atomic]]** as Editor-in-Chief. Atomic atomized news stories into discrete, updateable facts — a different model from traditional article-based journalism, and one that influenced how a generation of publishers thought about mobile-first storytelling.
+## The Daily Show
 
-### The Harbor Journal
+DeRosa spent five years as Digital Production Manager at **[[the-daily-show|The Daily Show]]**, helping build its digital department from the ground up. The team won an Emmy Award and received nominations in 2018 and 2019. He also helped produce the *New York Times* bestseller **[[trump-twitter-library|The Donald J. Trump Presidential Twitter Library]]** and its nationwide installations, which won a Cannes Lions Grand Prix and a Clio Award.
 
-At **The Harbor Journal**, a national daily, Reyes served as Strategy Editor for Investigations and Special Projects. He co-authored a long-form newsroom strategy roadmap that informed a multi-year digital transformation, and relaunched the paper's flagship newsletter.
+## ON_Discourse
 
-### The Forum Collective
+As Head of Product and Content at **[[on-discourse|ON_Discourse]]**, DeRosa helped launch a private membership community for business leaders, led the audience team, launched the company's expert network, and helped build an enterprise offering for Fortune 50 companies. He also led production of two podcasts.
 
-Between the Harbor Journal and Meridian Skills, Reyes founded and ran **[[on-discourse|The Forum Collective]]** as Head of Product and Content — a private membership community for business leaders combining editorial content, an expert network, and an enterprise offering.
+## Pluralsight
 
-### Meridian Skills
+DeRosa is currently Vice President of Newsletters and Programming at **[[pluralsight|Pluralsight]]**, a technology training company, where he leads the newsletter program and editorial initiatives.
 
-Reyes joined **[[pluralsight|Meridian Skills]]** as Vice President of Newsletters and Programming in late 2024, tasked with building a media arm for the technology training company. He launched three newsletters aimed at technology professionals:
+## Teaching
 
-- **[[prompt-pluralsight|SIGNAL]]** — AI without the hype, published Mondays by [[katie-canales|Priya Anand]]
-- **[[exploit-pluralsight|BREACH]]** — Cybersecurity threats and vulnerabilities, Wednesdays by [[tom-mckay|Sam Okafor]]
-- **[[scale-pluralsight|ORBIT]]** — Cloud computing and infrastructure, Fridays by [[neal-ungerleider|Felix Oyelaran]]
+DeRosa has also served as an adjunct journalism professor at New York University.
 
-He also oversees the **[[pluralsight-podcast|Meridian Podcast]]**, hosted by Devon Marsh, and leads the **[[newshub|Meridian Wire]]** initiative to bring editorial content onto the company's main site.
+## Recognition
 
-## Personal interests
+DeRosa has been featured by *AdWeek*, *New York Magazine*, *Details*, *TIME*, *Mashable*, and *Gizmodo*, and was called "the undisputed King of Tumblr" by *The New York Times*. NBC New York named him one of the top 20 people to follow on Twitter.
 
-Reyes is an active experimenter in AI tooling, documenting DIY projects ranging from beginner to advanced — building chatbots, generating art, and exploring practical applications of large language models.
+## Tools and AI
+
+DeRosa actively documents his exploration of artificial intelligence tools, including a self-built directory of AI services, **[[choosemyai|ChooseMyAI]]**. See **[[tech-stack|Tech Stack]]** for the platforms and coding languages he has used across his editorial and non-editorial projects.
 
 ## See also
 
-- [[pluralsight|Meridian Skills]]
-- [[on-discourse|The Forum Collective]]
-- [[prompt-pluralsight|SIGNAL]]
-- [[exploit-pluralsight|BREACH]]
-- [[scale-pluralsight|ORBIT]]
-- [[pluralsight-podcast|The Meridian Podcast]]
-- [[newshub|Meridian Wire]]
-- [[katie-canales|Priya Anand]]
-- [[tom-mckay|Sam Okafor]]
-- [[neal-ungerleider|Felix Oyelaran]]
-- [[chris-herbert|Diane Kessler]]
-- [[the-verification-handbook|The Field Verification Guide]]
+- [[reuters|Reuters]]
+- [[circa|Circa]]
+- [[wall-street-journal|The Wall Street Journal]]
+- [[the-daily-show|The Daily Show]]
+- [[on-discourse|ON_Discourse]]
+- [[pluralsight|Pluralsight]]
+- [[soupsoup|SoupSoup]]
+- [[the-verification-handbook|The Verification Handbook]]
+- [[trump-twitter-library|The Donald J. Trump Presidential Twitter Library]]
+- [[choosemyai|ChooseMyAI]]
+- [[tech-stack|Tech Stack]]
+- [[claude|Claude]]

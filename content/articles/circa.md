@@ -1,24 +1,23 @@
 ---
-title: Atomic
-summary: A mobile-first news app that atomized stories into discrete, updateable facts — one of the most innovative journalism products of the early 2010s.
+title: Circa
+summary: Mobile news startup where Anthony DeRosa served as Editor-in-Chief, breaking news stories into discrete, updateable facts rather than traditional articles.
 categories:
-  - Career
-  - Journalism
-  - Technology
-lastModified: "2026-04-09"
+  - Organizations
+  - Media
+lastModified: "2026-06-24"
 infobox:
-  _title: "Atomic"
-  Type: "Mobile news app"
-  Editor-in-chief: "[[anthony-derosa|Marcus Reyes]]"
-  Active: "2012–2015"
+  _title: "Circa"
+  Industry: "Mobile news"
+  Notable employee: "[[anthony-derosa|Anthony DeRosa]] (Editor-in-Chief)"
 ---
 
-**Atomic** was a mobile-first news application that ran from 2012 to 2015. It was notable for fundamentally rethinking how news stories are structured for mobile consumption — breaking stories into discrete, updateable **atoms** of fact rather than traditional article prose. [[anthony-derosa|Marcus Reyes]] served as Editor-in-Chief.
+**Circa** was a mobile news startup where **[[anthony-derosa|Anthony DeRosa]]** served as Editor-in-Chief. Circa atomized news stories into discrete, updateable facts — a departure from the traditional article format that influenced how a generation of publishers approached mobile-first storytelling.
 
-## Concept
+## Technical approach
 
-Traditional news articles repeat established context every time a story is updated. Atomic instead maintained each fact as its own card, letting readers see exactly what was new since their last visit.
+DeRosa worked with Circa's developers to identify potential signals its content management system could scrape from public data sources, including significant Wikipedia edits, rapidly engaging Twitter posts, and tracking of newsworthy accounts.
 
 ## See also
 
-- [[anthony-derosa|Marcus Reyes]]
+- [[anthony-derosa|Anthony DeRosa]]
+- [[tech-stack|Tech Stack]]

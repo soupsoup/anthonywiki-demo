@@ -1,19 +1,22 @@
 ---
-title: The Forum Collective
-summary: A private membership community for business leaders, founded and led by Marcus Reyes as Head of Product and Content before his move to Meridian Skills.
+title: ON_Discourse
+summary: Private membership community for business leaders where Anthony DeRosa served as Head of Product and Content, launching the company's website, expert network, and an enterprise product for Fortune 50 companies.
 categories:
   - Organizations
-  - Career
-lastModified: "2026-04-09"
+  - Media
+lastModified: "2026-06-24"
 infobox:
-  _title: "The Forum Collective"
-  Type: "Private membership community"
-  Focus: "Business leadership"
-  Role: "Head of Product and Content"
+  _title: "ON_Discourse"
+  Industry: "Membership community / media"
+  Notable employee: "[[anthony-derosa|Anthony DeRosa]] (Head of Product and Content)"
 ---
 
-**The Forum Collective** was a private membership community for business leaders, run by [[anthony-derosa|Marcus Reyes]] as Head of Product and Content. It sits between his time at [[circa|Atomic]] and The Harbor Journal and his arrival at [[pluralsight|Meridian Skills]], representing a chapter of his career defined by independent media building — a website, an editorial and audience team, two podcasts, and a B2B offering for large enterprise clients.
+**ON_Discourse** is a private membership community for business leaders centered on what it calls the Discipline of Discourse, intended to cultivate perspective, decision-making, and meaningful relationships among members.
+
+## Anthony DeRosa's role
+
+**[[anthony-derosa|Anthony DeRosa]]** served as Head of Product and Content, spearheading the launch of the company's website, working with the editorial team on member experiences, leading the audience team to generate new leads, launching the company's expert network, and helping build a new enterprise product aimed at Fortune 50 companies. He also led production of two podcasts: *Playing Business* and *The ON_Discourse Podcast*.
 
 ## See also
 
-- [[anthony-derosa|Marcus Reyes]]
+- [[anthony-derosa|Anthony DeRosa]]
