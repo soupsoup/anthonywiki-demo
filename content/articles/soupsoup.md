@@ -26,3 +26,4 @@ SoupSoup's audience and reputation led directly to DeRosa's hiring at **[[reuter
 
 - [[anthony-derosa|Anthony DeRosa]]
 - [[reuters|Reuters]]
+- [[stranger-than-fiction|Stranger Than Fiction]]

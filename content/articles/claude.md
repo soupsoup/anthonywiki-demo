@@ -24,3 +24,5 @@ DeRosa has used Claude's agentic capabilities — reading and writing files, bro
 - [[anthony-derosa|Anthony DeRosa]]
 - [[choosemyai|ChooseMyAI]]
 - [[tech-stack|Tech Stack]]
+- [[ai-builds-showcase|AI Builds Showcase]]
+- [[stranger-than-fiction|Stranger Than Fiction]]

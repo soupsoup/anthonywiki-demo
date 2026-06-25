@@ -29,3 +29,5 @@ DeRosa took part in special projects including the Elizabeth Holmes trial, presi
 
 - [[anthony-derosa|Anthony DeRosa]]
 - [[tech-stack|Tech Stack]]
+- [[selected-writing|Selected Writing]]
+- [[pensions-and-investments|Pensions & Investments]]

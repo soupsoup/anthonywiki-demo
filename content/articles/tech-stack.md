@@ -40,3 +40,4 @@ DeRosa has also worked on commercial real estate listings infrastructure (origin
 
 - [[anthony-derosa|Anthony DeRosa]]
 - [[claude|Claude]]
+- [[ai-builds-showcase|AI Builds Showcase]]

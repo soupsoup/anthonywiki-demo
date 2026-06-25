@@ -15,7 +15,7 @@ infobox:
 
 ## Work at Reuters
 
-DeRosa was among the first journalists at a major wire service to systematically fold social platforms into breaking-news coverage. He co-authored **[[the-verification-handbook|The Verification Handbook]]**, hosted a video series called "Tech Tonic," and wrote as a Reuters columnist.
+DeRosa was among the first journalists at a major wire service to systematically fold social platforms into breaking-news coverage. He co-authored **[[the-verification-handbook|The Verification Handbook]]**, hosted a video series called "Tech Tonic," and wrote as a Reuters columnist — see **[[selected-writing|Selected Writing]]** for his bylines.
 
 ## Awards
 
@@ -26,3 +26,5 @@ In 2011, DeRosa was awarded "Best Innovation in Storytelling" by Reuters. In 201
 - [[anthony-derosa|Anthony DeRosa]]
 - [[the-verification-handbook|The Verification Handbook]]
 - [[soupsoup|SoupSoup]]
+- [[selected-writing|Selected Writing]]
+- [[pensions-and-investments|Pensions & Investments]]

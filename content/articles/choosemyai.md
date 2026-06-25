@@ -18,3 +18,4 @@ infobox:
 
 - [[anthony-derosa|Anthony DeRosa]]
 - [[claude|Claude]]
+- [[ai-builds-showcase|AI Builds Showcase]]

@@ -12,7 +12,7 @@ infobox:
   Awards: "Emmy Award; Cannes Lions Grand Prix; Clio Award"
 ---
 
-**The Daily Show** is a late-night news satire program. **[[anthony-derosa|Anthony DeRosa]]** spent five years there as Digital Production Manager, helping build its digital department from the ground up. The team won an Emmy Award and received nominations in 2018 and 2019.
+**The Daily Show** is a late-night news satire program. **[[anthony-derosa|Anthony DeRosa]]** spent five years there as Digital Production Manager, helping build its digital department from the ground up. The team won an **[[emmy-award|Emmy Award]]** and received nominations in 2018 and 2019.
 
 ## Trump Twitter Library
 
@@ -27,3 +27,4 @@ DeRosa's technical work at The Daily Show included a Facebook data scraper built
 - [[anthony-derosa|Anthony DeRosa]]
 - [[trump-twitter-library|The Donald J. Trump Presidential Twitter Library]]
 - [[tech-stack|Tech Stack]]
+- [[emmy-award|Emmy Award]]

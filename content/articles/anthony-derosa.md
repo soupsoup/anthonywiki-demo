@@ -14,7 +14,7 @@ infobox:
   Website: "antderosa.com"
 ---
 
-**Anthony DeRosa** is a digital media executive, journalist, and technologist with more than 20 years of experience leading content and product teams for newsrooms and media organizations, including [[reuters|Reuters]], [[circa|Circa]], [[wall-street-journal|The Wall Street Journal]], and Pensions & Investments. He helped launch three startups over the course of his career. He is currently Vice President of Newsletters and Programming at **[[pluralsight|Pluralsight]]**.
+**Anthony DeRosa** is a digital media executive, journalist, and technologist with more than 20 years of experience leading content and product teams for newsrooms and media organizations, including [[reuters|Reuters]], [[circa|Circa]], [[wall-street-journal|The Wall Street Journal]], and [[pensions-and-investments|Pensions & Investments]]. He helped launch three startups over the course of his career. He is currently Vice President of Newsletters and Programming at **[[pluralsight|Pluralsight]]**.
 
 ## Early career and SoupSoup
 
@@ -34,7 +34,7 @@ At **[[wall-street-journal|The Wall Street Journal]]**, DeRosa served on a strat
 
 ## The Daily Show
 
-DeRosa spent five years as Digital Production Manager at **[[the-daily-show|The Daily Show]]**, helping build its digital department from the ground up. The team won an Emmy Award and received nominations in 2018 and 2019. He also helped produce the *New York Times* bestseller **[[trump-twitter-library|The Donald J. Trump Presidential Twitter Library]]** and its nationwide installations, which won a Cannes Lions Grand Prix and a Clio Award.
+DeRosa spent five years as Digital Production Manager at **[[the-daily-show|The Daily Show]]**, helping build its digital department from the ground up. The team won an **[[emmy-award|Emmy Award]]** and received nominations in 2018 and 2019. He also helped produce the *New York Times* bestseller **[[trump-twitter-library|The Donald J. Trump Presidential Twitter Library]]** and its nationwide installations, which won a Cannes Lions Grand Prix and a Clio Award.
 
 ## ON_Discourse
 
@@ -46,7 +46,7 @@ DeRosa is currently Vice President of Newsletters and Programming at **[[plurals
 
 ## Teaching
 
-DeRosa has also served as an adjunct journalism professor at New York University.
+DeRosa has also served as an adjunct journalism professor at **[[new-york-university|New York University]]**.
 
 ## Recognition
 
@@ -54,7 +54,11 @@ DeRosa has been featured by *AdWeek*, *New York Magazine*, *Details*, *TIME*, *M
 
 ## Tools and AI
 
-DeRosa actively documents his exploration of artificial intelligence tools, including a self-built directory of AI services, **[[choosemyai|ChooseMyAI]]**. See **[[tech-stack|Tech Stack]]** for the platforms and coding languages he has used across his editorial and non-editorial projects.
+DeRosa actively documents his exploration of artificial intelligence tools, including a self-built directory of AI services, **[[choosemyai|ChooseMyAI]]**, and the **[[ai-builds-showcase|AI Builds Showcase]]**, where he demonstrates projects built with Claude Code and Codex. See **[[tech-stack|Tech Stack]]** for the platforms and coding languages he has used across his editorial and non-editorial projects.
+
+## Writing
+
+Beyond his newsroom bylines — see **[[selected-writing|Selected Writing]]** — DeRosa writes an independent newsletter, **[[stranger-than-fiction|Stranger Than Fiction]]**, covering media, technology, and AI.
 
 ## See also
 
@@ -70,3 +74,9 @@ DeRosa actively documents his exploration of artificial intelligence tools, incl
 - [[choosemyai|ChooseMyAI]]
 - [[tech-stack|Tech Stack]]
 - [[claude|Claude]]
+- [[pensions-and-investments|Pensions & Investments]]
+- [[new-york-university|New York University]]
+- [[emmy-award|Emmy Award]]
+- [[selected-writing|Selected Writing]]
+- [[stranger-than-fiction|Stranger Than Fiction]]
+- [[ai-builds-showcase|AI Builds Showcase]]
