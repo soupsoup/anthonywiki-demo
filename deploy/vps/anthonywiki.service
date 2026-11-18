@@ -1,0 +1,27 @@
+[Unit]
+Description=AnthonyWiki demo (Next.js)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=anthonywiki
+Group=anthonywiki
+WorkingDirectory=/var/www/anthonywiki/.releases/current
+Environment=NODE_ENV=production
+Environment=HOSTNAME=127.0.0.1
+Environment=PORT=4422
+Environment=NEXT_TELEMETRY_DISABLED=1
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+RestartSec=3
+MemoryHigh=200M
+MemoryMax=300M
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+# Next writes its image cache under .next/cache in the release.
+ReadWritePaths=/var/www/anthonywiki/.releases
+
+[Install]
+WantedBy=multi-user.target
